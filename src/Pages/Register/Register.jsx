@@ -62,7 +62,7 @@ export default function Register() {
 
   return (
     <div className="userDetails">
-      <h1>Hello</h1>
+      <h1>Hello !</h1>
       <p>Sign Up to Get Started</p>
       {/* {errRes && (
         <Alert

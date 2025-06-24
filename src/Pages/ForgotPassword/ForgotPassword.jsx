@@ -58,7 +58,7 @@ export default function Register() {
 
   return (
     <div className="userDetails">
-      <h1>Hello</h1>
+      <h1>Hello !</h1>
       <p>Reset Password</p>
       {/* {sent && (
         <Alert

@@ -120,11 +120,11 @@ export default function Register() {
           options={[
             {
               value: "broker-admin",
-              label: "Broker administrator",
+              label: "Broker Administrator",
             },
             {
               value: "broker",
-              label: "Broker of record",
+              label: "Broker of Record",
             },
             {
               value: "agent",

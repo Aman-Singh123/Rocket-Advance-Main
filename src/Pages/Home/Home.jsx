@@ -19,10 +19,10 @@ const Home = () => {
       role: "a broker administrator",
       href: `${routes.Broker}/?role=broker-admin`,
     },
-    {
-      role: "an investor",
-      href: routes.Investor,
-    },
+    // {
+    //   role: "an investor",
+    //   href: routes.Investor,
+    // },
     {
       role: " a referral partner",
       href: routes.Referral,
